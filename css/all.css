@@ -66,11 +66,11 @@ img {
   padding: 0 12px;
 }
 
+.inline-block {
+  display: inline-block;
+}
 .block {
   display: block;
-}
-.flex {
-  display: flex;
 }
 
 .justify-center {
@@ -101,6 +101,9 @@ img {
   background-color: #EFEFEF;
 }
 
+.text-none {
+  font-size: 0;
+}
 .text-lg {
   font-size: 20px;
 }
@@ -135,6 +138,9 @@ img {
 .mx-auto {
   margin: 0 auto;
 }
+.mt-160 {
+  margin-top: 160px;
+}
 .mr-40 {
   margin-right: 40px;
 }
@@ -155,6 +161,9 @@ img {
 }
 .mb-160 {
   margin-bottom: 160px;
+}
+.ml-auto {
+  margin-left: auto;
 }
 
 .py-48 {
